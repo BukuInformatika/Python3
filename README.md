@@ -1,2 +1,2 @@
-# Python3
-Dasar Dasar Pemrograman Python 3 Untuk Pemula
+# Template
+Template untuk buku informatika standar
